@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Bar Moshe
 
+Bar Moshe, independent full-stack builder in Israel · [bar-builds.com](https://bar-builds.com/?src=gh-profile)
+
 **Full-Stack · AI-native · Builder.** Only a prompt away.
 
 I'm a full-stack engineer with a builder's habit and an AI-native reflex. I like closing the gap between an idea and the thing that runs it — a feature shipped, a script that saves someone an afternoon, a weekend experiment that quietly becomes a tool I use daily.
@@ -17,6 +19,12 @@ Most of my favorite work happens at the edges: small scripts, side-of-desk proto
 - [**claude-creative-stack**](https://github.com/barmoshe/claude-creative-stack) — Reference pack for building creative work with Claude.
 - [**temporal-data-processing**](https://github.com/barmoshe/data-processing-service) — Polyglot Temporal workflow featured on Temporal's Code Exchange.
 - [**Israelify**](https://github.com/barmoshe/Israelify-backend) — Spotify-inspired app, full-stack.
+
+## ✍️ Writing
+
+- [Domain Driven Vibe Building: a shared language first, screens after](https://bar-builds.com/articles/domain-driven-vibe-building/?src=gh-profile)
+- [Build first, talk later](https://bar-builds.com/article/?src=gh-profile)
+- All of it: [bar-builds.com/articles](https://bar-builds.com/articles/?src=gh-profile)
 
 ## 💡 Working on
 
